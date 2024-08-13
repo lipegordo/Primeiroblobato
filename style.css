@@ -3,7 +3,7 @@ margin: 0%;
 padding: 0%;
 }
  body{
-    background: linear-gradient(to right,rgb(109, 3, 151), rgb(13, 3, 158), rgb(11, 8, 206));
+    background: linear-gradient(to right,rgb(2, 35, 128), rgb(4, 23, 107), rgb(5, 3, 156));
  }
 h1{
     color: #ffffff;
@@ -24,7 +24,7 @@ p{
 
 
 .cabecalho{
-background-color: #000000;
+background-color: #072988;
 padding: 30px;
 text-align: center;
 display: flex;
